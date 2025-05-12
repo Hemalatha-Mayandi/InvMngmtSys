@@ -1,0 +1,10 @@
+org\example\utils\HealthCheckUtils.class
+org\example\domain\AuthResponse.class
+org\example\domain\Status.class
+org\example\stepdefs\ShopInventoryApiRegressionStepDef.class
+org\example\domain\AuthReq.class
+org\example\domain\Products.class
+org\example\utils\PropertyUtils.class
+org\example\utils\ApiUtils.class
+org\example\utils\HttpClientAllureWrapper.class
+org\example\domain\Order.class

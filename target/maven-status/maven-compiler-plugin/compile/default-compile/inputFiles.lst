@@ -1,0 +1,11 @@
+C:\Automation\InvMngmtSys\src\main\java\org\example\domain\Products.java
+C:\Automation\InvMngmtSys\src\main\java\org\example\domain\Status.java
+C:\Automation\InvMngmtSys\src\main\java\org\example\domain\Order.java
+C:\Automation\InvMngmtSys\src\main\java\org\example\utils\ApiUtils.java
+C:\Automation\InvMngmtSys\src\main\java\org\example\utils\PropertyUtils.java
+C:\Automation\InvMngmtSys\src\main\java\org\example\domain\AuthReq.java
+C:\Automation\InvMngmtSys\src\main\java\org\example\utils\HttpClientAllureWrapper.java
+C:\Automation\InvMngmtSys\src\main\java\org\example\domain\AuthResponse.java
+C:\Automation\InvMngmtSys\src\main\java\org\example\domain\ProductsInStock.java
+C:\Automation\InvMngmtSys\src\main\java\org\example\utils\HealthCheckUtils.java
+C:\Automation\InvMngmtSys\src\main\java\org\example\stepdefs\ShopInventoryApiRegressionStepDef.java
